@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1,Test_Inference_Time_Seconds
+TF-IDF + Logistic Regression (Baseline),0.5318363580436789,0.5744856385630209,0.5318363580436789,0.5382416571120634,0.012302637100219727

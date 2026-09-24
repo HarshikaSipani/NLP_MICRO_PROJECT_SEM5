@@ -1,0 +1,11 @@
+pair_id,profile_id,job_id,actual,predicted,composite
+295_linkedin_4404380462,295,linkedin_4404380462,Weak Match,Moderate Match,60.0
+128_linkedin_4406464271,128,linkedin_4406464271,Weak Match,Strong Match,63.0
+215_linkedin_4380358954,215,linkedin_4380358954,Moderate Match,Weak Match,69.0
+144_linkedin_4323538557,144,linkedin_4323538557,Moderate Match,Strong Match,75.0
+526_linkedin_4364800929,526,linkedin_4364800929,Moderate Match,Strong Match,72.0
+87_linkedin_4405291630,87,linkedin_4405291630,Moderate Match,Strong Match,79.0
+240_linkedin_4402534425,240,linkedin_4402534425,Moderate Match,Weak Match,66.0
+91_linkedin_4402577824,91,linkedin_4402577824,Weak Match,Moderate Match,60.0
+204_linkedin_4394465120,204,linkedin_4394465120,Strong Match,Moderate Match,81.0
+632_linkedin_4400389193,632,linkedin_4400389193,Weak Match,Moderate Match,63.0

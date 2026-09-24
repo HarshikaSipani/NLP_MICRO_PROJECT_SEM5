@@ -1,0 +1,7 @@
+numpy
+pandas
+joblib
+huggingface-hub
+scikit-learn
+sentence-transformers
+matplotlib

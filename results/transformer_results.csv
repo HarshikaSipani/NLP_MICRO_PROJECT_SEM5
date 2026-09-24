@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1,Embedding_Time_Seconds,Test_Inference_Time_Seconds
+Transformer + Logistic Regression,0.5229160258382036,0.5623252667151133,0.5229160258382036,0.5245936108039895,1096.8866357803345,0.0036821365356445312
